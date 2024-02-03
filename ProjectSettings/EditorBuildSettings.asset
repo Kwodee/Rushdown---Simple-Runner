@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Menu.unity
+    guid: 7bbe1d23ae5bf5d4bb85e5c45af63961
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Tutorial.unity
+    guid: 0f6a065190d6a294dba19d7bef44f3eb
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Char Selection.unity
+    guid: 1f7158d4d97eafd4f8f53fa3e382f323
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Theme Selector.unity
+    guid: f1955e345b0dcc24eae33fec6a9d7941
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nature/NChill.unity
+    guid: 1efc2a9965f12794e8f6238d01c5db3c
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nature/NNormal.unity
+    guid: 15f04ed07204dbc4ba4a4c6e4ac8595a
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nature/Nxtreme.unity
+    guid: 6d9b925564eb3904ca70bd151e390a39
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Snow/Xmaschill.unity
+    guid: fd3b9591a0610824888bdc44dd8385ca
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Snow/Xmasnormal.unity
+    guid: a3c496be0c8045148a3da371e4a37421
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Snow/Xmasxtreme.unity
+    guid: f46fe917acb216c48b952044900ce8c5
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/2121/21chill.unity
+    guid: 2a4c2f6ebf9cf40449cd075b2fe94708
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/2121/21normal.unity
+    guid: 0a485b2646aea84409b3c79911578913
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/2121/21xtreme.unity
+    guid: dc9adf252743f1541ae08653a6fb8098
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Open Seas/OsChill.unity
+    guid: 65a8ed4a8d0835f4daefabf2d294a007
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Open Seas/OsNormal.unity
+    guid: 33ffe741e03907846a64ebffd9793d4f
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Open Seas/OsXtreme.unity
+    guid: 4d936245e000bd54d9837077d328a0d1
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nippon/NiChill.unity
+    guid: 2aae5c585b07fa2468b8b2b63d620597
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nippon/NiNormal.unity
+    guid: bbcb912d153d81844822ea5852bbe6d6
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Nippon/NiXtreme.unity
+    guid: d8433f3546c3a1b45a23dd41137258ea
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Glass World/GChill.unity
+    guid: c7a8e6759166d9a4ba828d6c15b01c04
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Glass World/GNormal.unity
+    guid: c46c8107e29672645aca4450f317a793
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Glass World/Gxtreme.unity
+    guid: ab7be205e0cf55f4caf272ab4b1512ce
+  m_configObjects: {}
